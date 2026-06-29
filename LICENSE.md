@@ -1,4 +1,4 @@
-# 
+# Profesional SecureSense guía. Descarga e instala con GUI disponible y listo para Docker — rápido, seguro y fácil de usar.
 
 
 
